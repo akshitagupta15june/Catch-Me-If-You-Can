@@ -1,5 +1,7 @@
 # Catch-Me-If-You-Can
 
+<img src="https://github.com/akshitagupta15june/Catch-Me-If-You-Can/blob/main/Images/tom-jerry.jpg">
+
 ## Inspiration
 
 Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry. Jerry is Fond of cheese and this project rise from the same rivalry between tom and jerry.
